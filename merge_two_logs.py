@@ -1,4 +1,4 @@
-# simple script to merge 2 files based on date and time for correlating timing of events
+# basic script to merge 2 files based on date and time for correlating timing of events
 #INSTRUCTIONS:
 # Paste this script in the same folder as your two source files, otherwise you have to modify the path in the code
 
