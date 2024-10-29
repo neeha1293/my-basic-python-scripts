@@ -1,6 +1,6 @@
-# This is a cryptographically secure random password generator. 
+This is a cryptographically secure random password generator. 
 
-## Use case:
+## Use cases:
 - API Keys
 - access tokens
 - session token
